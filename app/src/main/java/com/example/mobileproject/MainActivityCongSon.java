@@ -1,4 +1,4 @@
-package com.example.resetpass;
+package com.example.mobileproject;
 
 import android.os.Bundle;
 
@@ -11,7 +11,6 @@ public class MainActivityCongSon extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.reset_password_2);
-
+        setContentView(R.layout.welcome_screen);
     }
 }
