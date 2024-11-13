@@ -60,7 +60,7 @@
             android:layout_marginTop="20dp"
             android:layout_marginEnd="4dp"
             android:contentDescription="Star Icon"
-            android:src="@drawable/img_1" />
+            android:src="@drawable/ic_sao" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -101,7 +101,7 @@
                 android:id="@+id/imgaccount"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:src="@drawable/img">
+                android:src="@drawable/ic_user_tien">
 
             </ImageView>
 
@@ -138,7 +138,7 @@
                 android:id="@id/imgpassword"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:src="@drawable/img_3">
+                android:src="@drawable/ic_lock_tien">
 
             </ImageView>
 
@@ -174,7 +174,7 @@
                 android:id="@+id/imgreward"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:src="@drawable/img_4">
+                android:src="@drawable/ic_reward">
 
             </ImageView>
 
@@ -245,7 +245,7 @@
                 android:id="@+id/imglanguage1"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:src="@drawable/img_5">
+                android:src="@drawable/ic_laco">
 
             </ImageView>
 
@@ -293,7 +293,7 @@
                 android:id="@+id/imglogout1"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:src="@drawable/img_6">
+                android:src="@drawable/ic_logout">
 
             </ImageView>
 
@@ -350,7 +350,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="30dp"
-                    app:srcCompat="@drawable/img_8" />
+                    app:srcCompat="@drawable/ic_home_tien" />
 
                 <TextView
                     android:id="@+id/textView1"
@@ -373,7 +373,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="100dp"
                     android:layout_marginTop="-10dp"
-                    app:srcCompat="@drawable/img_7" />
+                    app:srcCompat="@drawable/ic_map_tien" />
 
 
 
@@ -390,7 +390,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="30dp"
-                    app:srcCompat="@drawable/img_9" />
+                    app:srcCompat="@drawable/ic_setting" />
 
                 <TextView
                     android:id="@+id/textView"
