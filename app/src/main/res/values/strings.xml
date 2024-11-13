@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+
     <string name="tvEmail">Email</string>
     <string name="editTextPassword">Password</string>
     <string name="forgotPass">Forgot password</string>
@@ -13,5 +13,6 @@
     <string name="confirm_password">Confirm password</string>
     <string name="sign_up">Sign up</string>
     <string name="already_have_an_account">Already have an account?</string>
+    <string name="app_name">MobileProject</string>
 
 </resources>
