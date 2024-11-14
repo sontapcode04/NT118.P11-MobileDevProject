@@ -14,6 +14,6 @@ public class Signin extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.signin_activity);
+        setContentView(R.layout.dashboard);
     }
 }

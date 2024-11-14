@@ -84,7 +84,7 @@
         android:backgroundTint="@android:color/white"
         android:contentDescription="@string/log_in_button_gg"
         android:drawableLeft="@drawable/gg_icon"
-        android:drawableRight="@drawable/ic_arrow"
+        android:drawableRight="@drawable/ic_arrow_tien"
         android:text="@string/log_in_button_gg"
         android:textColor="@android:color/black"
         android:textSize="20sp" />

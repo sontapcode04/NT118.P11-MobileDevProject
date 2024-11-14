@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">MobileProject</string>
     <string name="tvEmail">Email</string>
     <string name="editTextPassword">Password</string>
     <string name="forgotPass">Forgot password</string>
@@ -13,5 +13,17 @@
     <string name="confirm_password">Confirm password</string>
     <string name="sign_up">Sign up</string>
     <string name="already_have_an_account">Already have an account?</string>
+    <string name="low">\ \ Low </string>
+    <string name="high">\ \ High</string>
+    <string name="medium">\ \ Medium</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="distribution_potholes_by_severity_level">Distribution potholes by severity level</string>
+    <string name="detected_potholes">Detected Potholes</string>
+    <string name="potholes_detected">Potholes detected</string>
+    <string name="distances_traveled">Distances Traveled</string>
+    <string name="potholes_detail">Potholes detail</string>
+    <string name="back_button">back_button</string>
+    <string name="score">score</string>
+    <string name="pothole_img">pothole_img</string>
 
 </resources>
